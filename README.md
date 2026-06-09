@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Alex 👋
 
-<!--
-**alekzz2005/alekzz2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student | 💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- Passionate about web and mobile development
+- Focused on building real-world systems
+- Interested in full-stack development
+
+---
+
+## 🛠️ Tech Stack
+- Java / Kotlin
+- ReactJS
+- Spring Boot
+- Django
+- MySQL
+
+---
+
+## 🚀 Featured Projects
+
+### 📦 TrackWise
+Inventory Management System using Django + MySQL  
+- Real-time stock tracking  
+- Role-based access  
+- Automated reporting  
+
+### 🎬 FilmFolio
+Movie tracking app for users  
+- Watch history tracking  
+- To-watch list feature  
+
+### 📚 Studdy System
+Peer-to-peer tutoring platform  
+- Scheduling system  
+- Progress tracking  
+
+---
+
+## 📫 Contact
+Email: your@email.com
