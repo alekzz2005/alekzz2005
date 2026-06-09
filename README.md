@@ -1,6 +1,6 @@
 # Hi, I'm Alex (Alexander Jr. Binagatan) 👋
 
-🚀 **Full-Stack Developer & Systems Engineer** 🏆 **DOST-SEI Undergraduate Scholar** | **Top 3 Student & Academic Achiever @ CIT-U**
+🚀 **Full-Stack Developer & Systems Engineer** 🏆 **DOST-SEI Undergraduate Scholar** | **Academic Achiever @ CIT-U**
 
 I specialize in architecting secure, component-based enterprise web platforms, mobile solutions, and computer vision integrations. From designing stateless token security layers to embedding custom object detection pipelines, I translate complex logical requirements into highly optimized, production-grade systems.
 
